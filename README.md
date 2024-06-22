@@ -4,3 +4,5 @@
 Curso Hora de Codar: Aula2-Intalação Vue CND;
 
 Curso Hora de Codar: Aula3-Inputs e Data Binding;
+
+Curso Hora de Codar: Aula4-Utilizando o Vue CLI;
