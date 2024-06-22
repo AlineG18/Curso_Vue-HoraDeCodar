@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>SITEWEB_PedidosP1</title>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-    <script src="src/app.js"defer></script>
-</head>
-<body>
+    <script src="src/app.js" defer></script>
+  </head>
+  <body>
     <div id="app">
       <form id="app.form">
-        <input type="text" v-model="input_name" placeholder="Digite seu nome"> 
-        <input type="submit" value="Enviar" v-on:click="submirForm">
+        <input type="text" v-model="input_name" placeholder="Digite seu nome" />
+        <input type="submit" value="Enviar" v-on:click="submirForm" />
       </form>
       <p>O meu nome é: {{ name }}</p>
     </div>
-</body>
+  </body>
 </html>
