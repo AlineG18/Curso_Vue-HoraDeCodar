@@ -9,7 +9,11 @@
 </head>
 <body>
     <div id="app">
-      <p>O meu nome é: {{ name }}, e tenho {{ age }} anos.</p>
+      <form id="app.form">
+        <input type="text" v-model="input_name" placeholder="Digite seu nome"> 
+        <input type="submit" value="Enviar" v-on:click="submirForm">
+      </form>
+      <p>O meu nome é: {{ name }}</p>
     </div>
 </body>
 </html>
