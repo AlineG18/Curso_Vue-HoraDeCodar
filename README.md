@@ -9,3 +9,5 @@ Curso Hora de Codar: Aula4-Utilizando o Vue CLI;
 
 Curso Hora de Codar: Aula5-Criando Componentes;
 
+Curso Hora de Codar: Aula6_Dados em componentes;
+
