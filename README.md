@@ -13,3 +13,5 @@ Curso Hora de Codar: Aula6_Dados em componentes;
 
 Curso Hora de Codar: Aula7-Entendendo os Lifecycle hooks (ciclo de vida);
 
+Curso Hora de Codar: Aula8-Hierarquia de componentes;
+
