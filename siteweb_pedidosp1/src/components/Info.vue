@@ -9,18 +9,26 @@
       <li>Pyton</li>
     </ul>
     <p v-show="mostrar_email">Envie um e-mail para: {{ email }}</p>
+    <p>Para acessar meu portifólio<a v-bind:href="meu_link" target="_blank">basta clicar aqui</a></p>
+    <Foto />
   </div>
 </template>
 
 <script>
+import Foto from "./Foto.vue";
+
 export default {
   name: "Info",
-  data(){
-    return{
+  components: {
+    Foto,
+  },
+  data() {
+    return {
       esta_trabalhando: false,
       mostrar_email: true,
-      email: 'aline.09@outlook.com'
+      email: "aline.09@outlook.com",
+      meu_link: "https://google.com",
     }
   }
-};
+}
 </script>
