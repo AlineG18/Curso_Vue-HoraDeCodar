@@ -17,4 +17,10 @@ Curso Hora de Codar: Aula8-Hierarquia de componentes;
 
 Curso Hora de Codar: Aula9-Conhecendo as diretivas;
 
-Curso Hora de Codar: Aula10 - Atributos dinâmicos;
+Curso Hora de Codar: Aula10-Atributos dinâmicos;
+
+Curso Hora de Codar: Aula11-Métodos;
+
+Curso Hora de Codar: Aula12-CSS Scoped e CSS global;
+
+Curso Hora de Codar: Aula13-Renderização de listas (v-for);
