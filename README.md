@@ -24,3 +24,5 @@ Curso Hora de Codar: Aula11-Métodos;
 Curso Hora de Codar: Aula12-CSS Scoped e CSS global;
 
 Curso Hora de Codar: Aula13-Renderização de listas (v-for);
+
+Curso Hora de Codar: Aula14-Eventos (@submit e @click);
