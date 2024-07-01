@@ -31,13 +31,15 @@ import Foto from "./Foto.vue";
 export default {
   name: "Info",
   components: {
-    Foto,
+    Foto
   },
+  props:{
+   email: String,
+  },  
   data() {
     return {
       esta_trabalhando: false,
       mostrar_email: false,
-      email: "aline.09@outlook.com",
       meu_link: "https://google.com",
       texto_botao: "Mostrar e-mail",
       backend_technologies: ["JavaScript", "PHP", "Pyton"],

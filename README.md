@@ -27,4 +27,10 @@ Curso Hora de Codar: Aula13-Renderização de listas (v-for);
 
 Curso Hora de Codar: Aula14-Eventos (@submit e @click);
 
-Curso Hora de Codar: Aula15-Múltiplos eventos
+Curso Hora de Codar: Aula15-Múltiplos eventos;
+
+Curso Hora de Codar: Aula16-Reutilização de componentes;
+
+Curso Hora de Codar: Aula17-Utilizando props;
+
+Curso Hora de Codar: Aula18-Emit;
