@@ -33,4 +33,4 @@ Curso Hora de Codar: Aula16-Reutilização de componentes;
 
 Curso Hora de Codar: Aula17-Utilizando props;
 
-Curso Hora de Codar: Aula18-Emit;
+Curso Hora de Codar: Aula18-Emit. FIM...
